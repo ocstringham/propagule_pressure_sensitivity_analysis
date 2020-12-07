@@ -17,7 +17,7 @@ The following contains descriptions of each file:
 				
 		- dpe_multi_fun.R
 
-			A script for function that takes inputs of (1) various parameter values (in form of vectors) and (2) a selected parameter to do a partial derivate (e.g. dpe/dps) and return a dataframe with paratemeter values, pe, and dpe for each combination of parameter value. Accepted paramteres are: PS, PN (called ni), q, c, and phi.
+			A script for function that takes inputs of (1) various parameter values (in form of vectors) and (2) a selected parameter to do a partial derivate (e.g. dpe/dps) and return a dataframe with paratemeter values, pe, and dpe for each combination of parameter value. Accepted paramteres are: PS, PN (also called NI), q, c, and phi.
 		
 		- max_allowable_pp.R
 
@@ -128,7 +128,7 @@ The following contains descriptions of each file:
 
 	R project file that will open RStudio and use this repository as project. 
 		
-		
+Note: the paramter PN (propagule number) and NI (number of introduction events) are the same and are used interchangable. PN is used exclusively in the paper and NI or ni is used almost exclusively in the code. 
 		
 References
 Cassey, P., S. Delean, J. L. Lockwood, J. S. Sadowski, and T. M. Blackburn. 2018. Dissecting the null model for biological invasions: A meta-analysis of the propagule pressure effect. PLOS Biology 16:e2005987.
