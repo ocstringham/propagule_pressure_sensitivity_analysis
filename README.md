@@ -2,7 +2,10 @@
 Code and data associated with "Managing propagule pressure to prevent invasive species establishments: propagule size, number, and risk-release curve" by Oliver C. Stringham & Julie L. Lockwood. _Ecological Applications_ (accepted). Link to be avaiable upon publication.
 
 
+---
+## Contents
 The following contains descriptions of each file: 
+
 
 |- scripts
 	
@@ -52,6 +55,7 @@ The following contains descriptions of each file:
 				
 		|- max_allowable_pp_analysis.R
 				A script to run the maximum allowable propagule pressure analysis presented in paper. 
+
 
 |- data
 
