@@ -128,7 +128,9 @@ The following contains descriptions of each file:
 
 	R project file that will open RStudio and use this repository as project. 
 		
-Note: the paramter PN (propagule number) and NI (number of introduction events) are the same and are used interchangable. PN is used exclusively in the paper and NI or ni is used almost exclusively in the code. 
+
+## Note
+The paramter PN (propagule number) and NI (number of introduction events) are the same and are used interchangable. PN is used exclusively in the paper and NI or ni is used almost exclusively in the code. 
 		
-References
+## Reference
 Cassey, P., S. Delean, J. L. Lockwood, J. S. Sadowski, and T. M. Blackburn. 2018. Dissecting the null model for biological invasions: A meta-analysis of the propagule pressure effect. PLOS Biology 16:e2005987.
